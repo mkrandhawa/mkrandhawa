@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkrandhawa
-- 🌱 I’m a software engineer student
+- 🌱 I’m a 2nd software engineer student at University of Leicester (UK)
 
 <!---
 mkrandhawa/mkrandhawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
