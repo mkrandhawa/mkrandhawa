@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkrandhawa
+- 👋 Hi, I’m Manpreet Kaur
 - 🌱 I’m a 2nd software engineer student at University of Leicester (UK)
 
 <!---
