@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manpreet Kaur
-- 🌱 I’m a 2nd software engineer student at University of Leicester (UK)
+- 🌱 I’m a 2nd year software engineer student at University of Leicester (UK)
 
 <!---
 mkrandhawa/mkrandhawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
