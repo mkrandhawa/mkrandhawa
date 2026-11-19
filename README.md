@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
 <h3 align="center">A passionate MERN full stack web developer from United Kingdom</h3>
 
-- 🔭 I have recently finished building **an auction based house selling website**
+- 🔭 I have recently finished building **[SPINE](https://spine-mocha.vercel.app/)** an app for readers
 
 - 🌱 I’m currently learning **MERN stack**
 
